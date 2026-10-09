@@ -19,3 +19,4 @@ This Excel project analyzes hospital emergency room data using pivot tables and 
 
 ## 📌 Author
 Saajan Kumar | BCA Student | Aspiring Data Analyst
+<img width="1797" height="673" alt="image" src="https://github.com/user-attachments/assets/ef212aa6-9e32-4d7e-92c1-f7dc3cad539e" />
